@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\cavidan_test\cavidan_test\bin\Debug\cavidan_test.exe.config
+C:\Users\User\Desktop\cavidan_test\cavidan_test\bin\Debug\cavidan_test.exe
+C:\Users\User\Desktop\cavidan_test\cavidan_test\bin\Debug\cavidan_test.pdb
+C:\Users\User\Desktop\cavidan_test\cavidan_test\obj\Debug\cavidan_test.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\cavidan_test\cavidan_test\obj\Debug\cavidan_test.exe
+C:\Users\User\Desktop\cavidan_test\cavidan_test\obj\Debug\cavidan_test.pdb
